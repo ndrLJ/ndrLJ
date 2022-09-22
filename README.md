@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nandor Ljubanovic!
-- 👀 I'm an intern web developer
+- 👀 Looking for a junior front-end role
 - 🌱 I'm currently trying to improve my Angular and TypeScript skills
 - 📫 Reach me at https://ndrportfolio.netlify.app/
 
